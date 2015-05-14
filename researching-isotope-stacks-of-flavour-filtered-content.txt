@@ -1,0 +1,90 @@
+Stacks of Flavour  - weekend research 28/03/15
+
+Best plucked from a massive List of JQuery 'filter' plugins obtained via:
+http://www.jqueryrain.com/demo/jquery-filter-plugin/
+
+
+Check this as it seems there's a WP plugin all ready to be used with custom post types
+https://github.com/mandiwise/isotope-posts
+
+0. Now this really shows a great example of multiple sorts within Wordpress which we could apply to 'what can you grow' page. Would need custom post types though
+
+http://rrcdesignshow.ca/
+
+1. Impreza Theme Showing portfolio page example utilising isotope js plugin for filtering
+http://impreza.us-themes.com/portfolio-4-columns/
+
+Configured this http://www.aliciaramirez.com/2014/03/integrating-isotope-with-wordpress/
+
+via 
+
+pilch.co.uk
+
+/home/pilch/public_html/_dev/wp-content/themes/stargazer-colloquium
+
+/css/isotope.css
+/js/isotope.js
+/js/jquery.isotope.min.js --> contains a lot of the config
+functions.php
+
+/home/pilch/public_html/_dev/wp-content/themes/stargazer/
+/content/page.php
+
+search for to implementation <!--pilchy isotope testing -->
+
+
+2. Isotope js
+http://isotope.metafizzy.co/
+	Examples of filtering: http://isotope.metafizzy.co/filtering.html 
+	see Combination filters section
+
+	Multiple Checkbox Examples via JSFiddle: http://jsfiddle.net/desandro/GwBa8/
+	Quality example: http://codepen.io/desandro/pen/JEojz/
+
+js source
+http://cdn.ghanaadventist.org.uk/wp-content/themes/Impreza/wpbakery/js_composer/assets/lib/isotope/jquery.isotope.js	
+or
+http://cdn.ghanaadventist.org.uk/wp-content/themes/Impreza/wpbakery/js_composer/assets/lib/isotope/jquery.isotope.min.js
+
+
+
+3. MixitUp
+https://mixitup.kunkalabs.com/
+	WP Live Content Filer [example of MixitUp being used within WP]
+	http://codecanyon.net/item/wp-live-content-filter/10379859
+
+4. Custom Post Types plugin for WP
+https://pippinsplugins.com/products/easy-content-types/
+
+InstFilta
+http://chromawoods.com/instafilta/demo/
+
+6. JPList [great options but techy implementation]
+https://jplist.com/
+	DropDown Filters DEMO - https://jplist.com/controlsexamples/drop-down-filters-select
+
+7. WP Version
+	https://jplist.com/jplist-wordpress-version	
+	DEMO: http://wordpress.jplist.com/jplist-for-posts-sorting-filtering-and-pagination/
+
+8. Shuffle - very much like isoTope.
+http://vestride.github.io/Shuffle/#demo
+
+9. Cube Portfolio [very isotope like but offers few more UI elements like count on filter button hover]
+http://codecanyon.net/item/cube-portfolio-responsive-jquery-grid-plugin/full_screen_preview/6372959
+
+DATA led Examples:
+
+1. Chained Selects [Yarn Finder]
+www.dynamicdrive.com/dynamicindex16/chainedselects/chainedselects.html
+
+2. YADCF (Yet Another DataTables Column Filter)
+http://yadcf-showcase.appspot.com/
+https://github.com/vedmack/yadcf/releases
+https://github.com/vedmack/yadcf/archive/0.8.7.zip
+
+
+OTHER:
+
+1. Sweet, new select fields:
+https://select2.github.io/examples.html
