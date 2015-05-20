@@ -18,16 +18,16 @@ Configured this http://www.aliciaramirez.com/2014/03/integrating-isotope-with-wo
 
 via 
 
-pilch.co.uk
+*****.co.uk
 
-/home/pilch/public_html/_dev/wp-content/themes/stargazer-colloquium
+/home/*****/public_html/_dev/wp-content/themes/stargazer-colloquium
 
 /css/isotope.css
 /js/isotope.js
 /js/jquery.isotope.min.js --> contains a lot of the config
 functions.php
 
-/home/pilch/public_html/_dev/wp-content/themes/stargazer/
+/home/*****/public_html/_dev/wp-content/themes/stargazer/
 /content/page.php
 
 search for to implementation <!--pilchy isotope testing -->
